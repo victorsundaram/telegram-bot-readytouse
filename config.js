@@ -1,1 +1,0 @@
-module.exports = {token_str:'639007544:AAHnPdO8nXhohDd79HY5GYecli2ABYMxwrE'};

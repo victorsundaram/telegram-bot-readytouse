@@ -60,6 +60,7 @@ typings/
 
 
 # START: Project files
+config.js
 
 src/config.js
 
